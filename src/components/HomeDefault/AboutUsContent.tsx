@@ -15,8 +15,8 @@ const AboutUsContent: React.FC = () => {
                 Know More About <b>Event </b> PURPLE JALLOSH
                 </h2>
                 <p>
-                The &quot;Purple Jallosh&quot;The "Purple Jallosh" event in Pimpri-Chinchwad is a celebration designed to support and highlight the achievements of people with disabilities in the area.
-                 Hosted by the Pimpri-Chinchwad Municipal Corporation (PCMC) at the Divyang Bhavan in Morewadi, this event aligns with PCMC's broader goals of enhancing inclusivity and providing essential services to differently-abled individuals.
+                The Purple Jallosh event in Pimpri-Chinchwad is a celebration designed to support and highlight the achievements of people with disabilities in the area.
+                 Hosted by the Pimpri-Chinchwad Municipal Corporation (PCMC) at the Divyang Bhavan in Morewadi, this event aligns with PCMCs broader goals of enhancing inclusivity and providing essential services to differently-abled individuals.
                 </p>
                 <p>
                 Divyang Bhavan is a state-of-the-art facility that offers comprehensive support, including therapies (such as physiotherapy and speech therapy), diagnostic services, and the provision of assistive devices like prosthetics. The center also engages in skill training,
